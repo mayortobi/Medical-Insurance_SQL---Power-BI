@@ -95,4 +95,4 @@ Overall, the project demonstrates the value of transforming raw medical insuranc
 
 **AKINLADE OLUWATOBILOBA**
 
- DATA ANALYST | BUSINESS
+ DATA ANALYST | BUSINESS INTELLIGENCE
